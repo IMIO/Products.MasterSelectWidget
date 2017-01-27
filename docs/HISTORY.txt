@@ -4,7 +4,9 @@ Changelog
 0.4.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+* Fix an error with the vocabulary that prevent the selection of already
+  selected values
+  [mpeeters]
 
 
 0.4.8 (2015-08-06)
